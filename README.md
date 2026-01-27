@@ -13,18 +13,18 @@
 
 ### 🌟 About Me  
 
-- 🔍 Exploring **Data Science, AI, and Deep Learning**  
-- 💻 Skilled in creating **end-to-end ML solutions** — from data preprocessing to model deployment  
-- 🌐 Experienced with **web-based ML applications** using Flask and Node.js  
-- 📈 Interested in **data storytelling, predictive modeling, and NLP**  
-- 🎯 Goal: To become a **Data Scientist** who builds impactful, explainable, and scalable AI systems  
-- 🤝 Open to **collaboration** on data-driven projects  
+-  Exploring **Data Science, AI, and Deep Learning**  
+-  Skilled in creating **end-to-end ML solutions** — from data preprocessing to model deployment  
+-  Experienced with **web-based ML applications** using Flask and Node.js  
+-  Interested in **data storytelling, predictive modeling, and NLP**  
+-  Goal: To become a **Data Scientist** who builds impactful, explainable, and scalable AI systems  
+-  Open to **collaboration** on data-driven projects  
 
 ---
 
-### 🚀 Featured Projects  
+###  Featured Projects  
 
-#### 🧠 [Fake News Detection](https://github.com/Kalpnaa/Fake-News-Detection)
+####  [Fake News Detection](https://github.com/Kalpnaa/Fake-News-Detection)
 A natural language processing project that classifies news articles as **real** or **fake** using ML algorithms.  
 
 **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, NLTK, Flask  
@@ -35,7 +35,7 @@ A natural language processing project that classifies news articles as **real** 
 
 ---
 
-#### 💳 [CreditClarity – Credit Risk Assessment](https://github.com/Kalpnaa/CreditClarity)
+####  [CreditClarity – Credit Risk Assessment](https://github.com/Kalpnaa/CreditClarity)
 A **credit risk prediction** model leveraging financial data and explainable AI for transparency in predictions.  
 
 **Tech Stack:** Python, Pandas, Scikit-learn, XGBoost, Flask  
@@ -46,7 +46,7 @@ A **credit risk prediction** model leveraging financial data and explainable AI 
 
 ---
 
-#### ✈️ [PackPal – Group Travel Organizer](https://github.com/Kalpnaa/PackPal)
+####  [PackPal – Group Travel Organizer](https://github.com/Kalpnaa/PackPal)
 A web app designed to simplify **group travel planning** with collaborative task management.  
 
 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB  
