@@ -66,6 +66,8 @@ An NLP project designed to help readers ask questions about books while respecti
 
 **Stack:** Python · Flask · NLP · Text Processing · Information Retrieval
 
+[View repository →](https://github.com/Kalpnaa/Litlens)
+
 *Status: In development.*
 
 </td>
